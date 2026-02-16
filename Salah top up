@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>HOR_MUUD Top Up</title>
+
+<style>
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right,#000428,#004e92);
+  color:white;
+  text-align:center;
+}
+
+header{
+  background:black;
+  padding:20px;
+  font-size:25px;
+  font-weight:bold;
+  color:red;
+}
+
+.container{
+  margin-top:40px;
+}
+
+.card{
+  background:#111;
+  margin:15px;
+  padding:20px;
+  border-radius:15px;
+  display:inline-block;
+  width:200px;
+}
+
+button{
+  background:red;
+  color:white;
+  border:none;
+  padding:10px 20px;
+  border-radius:8px;
+  cursor:pointer;
+  font-weight:bold;
+}
+
+button:hover{
+  background:darkred;
+}
+
+input{
+  padding:10px;
+  width:200px;
+  border-radius:8px;
+  border:none;
+  margin:10px;
+}
+</style>
+</head>
+
+<body>
+
+<header>🔥 HOR_MUUD TOP UP
